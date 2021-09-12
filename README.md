@@ -9,5 +9,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissamonteiroo&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/Larissamonteiroo/Larissamonteiroo)
+![Snake animation](https://github.com/Larissamonteiroo/Larissamonteiroo/blob/output/github-contribution-grid-snake.svg)
 -->
