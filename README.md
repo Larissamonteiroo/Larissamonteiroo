@@ -2,7 +2,6 @@
 
 - 🔭 No momento trabalhando com Backend, mas estou estudando para me tornar fullstack
 - 🌱 Estou estudando Java e Kotlin
-- 😅 Ainda estou organizando o perfil
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissamonteiroo&show_icons=true&theme=tokyonight&include_all_commits=trust&count_private=true"/>
